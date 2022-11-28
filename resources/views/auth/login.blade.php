@@ -6,6 +6,7 @@
       <div class="col col-md-offset-3 col-md-6">
         <nav class="panel panel-default">
           <div class="panel-heading">ログイン</div>
+          <p>ログインしてください</p>
           <div class="panel-body">
             @if($errors->any())
               <div class="alert alert-danger">
